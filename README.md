@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Frontend
 
-  <img src="https://img.shields.io/badge/-WhatsApp-4169E1?style=flat-square&labelColor=4169E1&logo=whatsapp&logoColor=white&link=wa.me/5587991738373" alt="WhatsApp"/></a>
+[![Gmail Badge](https://img.shields.io/badge/-WhatsApp-4169E1?style=flat-square&labelColor=4169E1&logo=whatsapp&logoColor=white&link=wa.me/5587991738373)](link=wa.me/5587991738373)
 [![Gmail Badge](https://img.shields.io/badge/-n3undev@gmail.com-4169E1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuricold99@gmail.com)](mailto:iuricold99@gmail.com)
 
 
