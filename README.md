@@ -12,5 +12,5 @@ Minha primeira experiência com código foi na época do Orkut, onde tentei alte
 
 **Procurando um projeto inovador para sua empresa? Conecte-se conosco e vamos criar algo único juntos.**
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/jZy8769z/Systems-and-technology-programming-company-logo-2-1.png" alt="Systems-and-technology-programming-company-logo-2-1" border="0" min-width="400px" max-width="300px" width="300px" align-items="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/jZy8769z/Systems-and-technology-programming-company-logo-2-1.png" alt="Systems-and-technology-programming-company-logo-2-1" border="0" min-width="400px" max-width="300px" width="300px" align="right">
 ></a>
