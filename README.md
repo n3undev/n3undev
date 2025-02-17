@@ -2,8 +2,6 @@
 
 ### Desenvolvedor Frontend
 
-<img src="[(https://imgur.com/cIdebjN)](https://imgur.com/cIdebjN)" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=wa.me/5587991738373" alt="WhatsApp"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-n3undev@gmail.com-blue.svg)](mailto:n3undevd@gmail.com)
 
@@ -14,3 +12,4 @@ Minha primeira experiência com código foi na época do Orkut, onde tentei alte
 
 **Procurando um projeto inovador para sua empresa? Conecte-se conosco e vamos criar algo único juntos.**
 
+![teste](https://imgur.com/a/BlmeOUm)
