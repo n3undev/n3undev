@@ -12,4 +12,4 @@ Minha primeira experiência com código foi na época do Orkut, onde tentei alte
 
 **Procurando um projeto inovador para sua empresa? Conecte-se conosco e vamos criar algo único juntos.**
 
-![teste](https://imgur.com/a/BlmeOUm)
+<img src="https://ibb.co/sJKgLmpC" alt="Texto Alternativo">
