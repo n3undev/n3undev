@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Frontend
 
-[![Linkedin Badge]((https://img.shields.io/badge/-Kleyton%20Marques-0000FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://wa.me/5587991738373))]((https://wa.me/5587991738373)) 
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=wa.me/5587991738373" alt="WhatsApp"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-n3undev@gmail.com-blue.svg)](mailto:n3undevd@gmail.com)
 
 Meu nome é Kleyton Marques, ou como me chamam no mundo da tecnologia, n3un. Sou desenvolvedor frontend cursando Engenharia de Software na UNIFAVIP em Caruaru, Pernambuco.
